@@ -1,2 +1,6 @@
 # FormIO_Custom
-Created with CodeSandbox
+
+To start the application, run 
+
+1. npm run build
+2. npm run start
